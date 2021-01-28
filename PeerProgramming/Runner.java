@@ -10,5 +10,8 @@ public class Runner {
 		 System.out.println(f.FactorialCalc(18));
 		 
 		 
+		
+		Doggo doggo = new Doggo();
+		doggo.displayPlace(99);
 	}
 }
