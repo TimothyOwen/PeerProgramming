@@ -1,4 +1,4 @@
-# Peer Programming Exercise
+# Peer Programming
 
 * ## Factorials
 
